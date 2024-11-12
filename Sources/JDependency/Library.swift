@@ -1,3 +1,3 @@
-enum Library {
-    static let name = "JDependency"
+public enum Library {
+    public static let name = "JDependency"
 }
