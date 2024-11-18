@@ -7,7 +7,7 @@ let package = Package(
     products: [
         .library(
             name: "JDependency",
-            type: .dynamic,
+            type: .static,
             targets: ["JDependency"]),
     ],
     targets: [
